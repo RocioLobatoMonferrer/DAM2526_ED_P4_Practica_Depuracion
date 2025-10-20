@@ -9,7 +9,7 @@ En este ejericio se nos entrega el siguiente código:
 
 Para este ejercicio se nos pide encontrar los errores de esté mediante la depuración:
 
-**1. Primero debemos colocar nuestros breakpoints para la depuración**
+## **1. Primero debemos colocar nuestros breakpoints para la depuración**
 
 
 ![Imagen2](capturas/001_breakpoints.png)
@@ -44,19 +44,19 @@ Ahora podemos observar que el contador empieza en uno, el if si se coloca un val
 ![Imagen6](capturas/05_media_corregida.png)
 
 
-**4. Expresiones obligatorias que son parte del código**
+## **4. Expresiones obligatorias que son parte del código**
 
 
 ![Imagen7](capturas/04_expressions_obligatorias.png)
 
 
-**5. Se nos pide colocar un breakpoint condicional en este ejercicio**
+## **5. Se nos pide colocar un breakpoint condicional en este ejercicio**
 
 
 ![Imagen8](capturas/06_breakpoint_condicional.png)
 
 
-**6. Por último, se nos pide crear una plantilla y ver si esta funciona**
+## **6. Por último, se nos pide crear una plantilla y ver si esta funciona**
 
 
-![Imagen9](capturas/)
+![Imagen9](capturas/05_plantilla_pedirnota.png)
