@@ -21,6 +21,7 @@ Para este ejercicio se nos pide encontrar los errores de esté mediante la depur
 ![Imagen3](capturas/02_variables_iteracion.png)
 
 
+
 **3. Ahora averiguamos cuales son los problemas que sufre el código**
 
 
@@ -38,3 +39,24 @@ He aquí una imagen con el código arreglado:
 
 
 Ahora podemos observar que el contador empieza en uno, el if si se coloca un valor que no este entre 0 y 10, salta un mensaje de error y te vueleve a pedir un número que se encuentre en ese intervalo y la media ahora sí es correcta.
+
+
+![Imagen6](capturas/05_media_corregida.png)
+
+
+**4. Expresiones obligatorias que son parte del código**
+
+
+![Imagen7](capturas/04_expressions_obligatorias.png)
+
+
+**5. Se nos pide colocar un breakpoint condicional en este ejercicio**
+
+
+![Imagen8](capturas/06_breakpoint_condicional.png)
+
+
+**6. Por último, se nos pide crear una plantilla y ver si esta funciona**
+
+
+![Imagen9](capturas/)
